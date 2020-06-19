@@ -1,0 +1,16 @@
+﻿@model IEnumerable<ClimbingGym.Data.Models.SingleGym>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Climbing Gyms</h1>
+
+
+<ul>
+    @foreach (var gym in Model)
+    {
+        <li>@gym.Name</li>
+    }
+</ul>

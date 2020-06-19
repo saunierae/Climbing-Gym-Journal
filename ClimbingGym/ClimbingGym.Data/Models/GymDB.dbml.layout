@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GymDB">
+  <DataContextMoniker Name="/GymDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="eccc3933-a533-4d72-b398-658db9245f1f" absoluteBounds="2.375, 2.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/GymDBDataContext/Gym" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ddbd28b2-0730-43f5-a41a-5093fd6e2b04" absoluteBounds="2.39, 3.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

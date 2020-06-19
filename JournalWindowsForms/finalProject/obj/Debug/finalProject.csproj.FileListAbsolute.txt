@@ -1,0 +1,39 @@
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.addClimb.resources
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.mainWindow.resources
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.RouteInfo.resources
+C:\Users\Jared\Documents\OMSCS\saunieBash\final\finalProject\finalProject\obj\Debug\finalProject.ViewClimbs.resources
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.addClimb.resources
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.mainWindow.resources
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.RouteInfo.resources
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.ViewClimbs.resources
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\sburke\Documents\2019\SDEV260\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.addClimb.resources
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.mainWindow.resources
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.RouteInfo.resources
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.ViewClimbs.resources
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\Saunie\Documents\MemCardSurface\2019\SDEV260\week14_final\week14\Final Project\finalProject\finalProject\obj\Debug\finalProject.pdb

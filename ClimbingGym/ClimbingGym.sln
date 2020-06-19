@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingGym.Web", "ClimbingGym\ClimbingGym.Web.csproj", "{218E6A93-B2F9-48DA-9D7A-6403CEE34621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingGym.Data", "ClimbingGym.Data\ClimbingGym.Data.csproj", "{75A66689-9903-4832-A69E-2BC69556BAB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218E6A93-B2F9-48DA-9D7A-6403CEE34621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218E6A93-B2F9-48DA-9D7A-6403CEE34621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218E6A93-B2F9-48DA-9D7A-6403CEE34621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218E6A93-B2F9-48DA-9D7A-6403CEE34621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A66689-9903-4832-A69E-2BC69556BAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A66689-9903-4832-A69E-2BC69556BAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A66689-9903-4832-A69E-2BC69556BAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A66689-9903-4832-A69E-2BC69556BAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5521C8F-2E2B-49EA-ABB3-8595F53F30D0}
+	EndGlobalSection
+EndGlobal
